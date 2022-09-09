@@ -1,0 +1,21 @@
+
+nav ul li:hover {
+    background-color: orange;
+}
+.image {
+    -webkit-border-radius: 130px;
+    -webkit-border-bottom-right-radius: 0;
+    -moz-border-radius: 130px;
+    -moz-border-radius-bottomright: 0;
+    border-radius: 130px;
+    border-bottom-right-radius: 0;
+}
+.image .img-border {
+    position: absolute;
+    height: 67%;
+    width: 23%;
+    top: 80px;
+    right: 200px;
+    border: 4px double #F2A42D;
+    border-radius: 85px 85px 85px 0px;
+}
